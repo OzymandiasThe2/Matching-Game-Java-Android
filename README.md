@@ -109,18 +109,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+NONE :)
 
 ### Installation
 
 1. use the app app-debug.apk to install and see the game in action
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -136,18 +131,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Login page with sign up option using firebase authenticate.  
-- [x] List of available restaurants that contains at least 10 restaurants. The list should be designed using recycler view. 
-- [x] List of at least 4 dishes per restaurant presented in a recycler view with prices and availability. 
-- [x] A cart page to review the order and make payments.  
-- [ ] Order History with tracking/status page 
-- [ ] Use Firebase real-time database for 
-  - [x] Restaurants
-  - [x] Dishes
-  - [ ] Order Status
-- [ ] Use Room database for profile data 
-- [ ] Payment and order tracking page (Demo payment only -not connected to any API). 
-- [ ] Web application for restaurants to confirm orders and update tracking data
+- [x] Win Condition
+- [x] Images dissapear after being paired correctly
+- [x] Randomized each game
+- [x] A way to count score
+  - [x] Could use a point or timer system, I sued a point system
+- [x] Restart button
+- [x] Sound FX 
 
 
 See the [open issues](https://github.com/OzymandiasThe2/Matching-Game-Java-Android/issues) for a full list of proposed features (and known issues).
